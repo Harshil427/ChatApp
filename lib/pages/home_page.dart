@@ -297,7 +297,7 @@ class _HomePageState extends State<HomePage> {
             height: 20,
           ),
           Text(
-            'You have not join any group click to add.. zsfsfsf jzjoxchzbbsbfasbsbfbsbfbsbfsjbfbsbfjsbfjsbfsbfbsjbs f sjf fsfsf s',
+            '😠😠You have not join any group click to add and find group using search😁😁',
             textAlign: TextAlign.center,
           ),
         ],
